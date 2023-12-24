@@ -54,8 +54,6 @@
 
 ## Output:
 ![mech ex1](https://github.com/HarrishVenkat/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144979588/898293eb-f1ff-4a2a-9396-b282e1e62a5f)
-
-
 ### Name: Harrish Venkat V
 ### Register Number: 23013973
 
